@@ -1,0 +1,19 @@
+version: "3.9"
+services:
+    dockertuto.api:
+        image: dockertuto.api
+        
+        build: 
+            context: .
+            dockerfile: src/DockerTuto.Api/Dockerfile
+        ports:
+            - "8000:80"
+            
+    dozzle:
+        container_name: dozzle-con
+        image: amir20/dozzle:latest
+        volumes:
+            - /var/run/docker.sock:/var/run/docker.sock
+        ports:
+            - 9999:8080
+      

@@ -1,0 +1,8 @@
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\bin\Debug\netcoreapp3.1\DockerTuto.Core.deps.json
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\bin\Debug\netcoreapp3.1\DockerTuto.Core.dll
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\bin\Debug\netcoreapp3.1\DockerTuto.Core.pdb
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\obj\Debug\netcoreapp3.1\DockerTuto.Core.AssemblyInfoInputs.cache
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\obj\Debug\netcoreapp3.1\DockerTuto.Core.AssemblyInfo.cs
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\obj\Debug\netcoreapp3.1\DockerTuto.Core.csproj.CoreCompileInputs.cache
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\obj\Debug\netcoreapp3.1\DockerTuto.Core.dll
+C:\Users\AydinKoca\source\repos\docker\DockerTuto\src\DockerTuto.Core\obj\Debug\netcoreapp3.1\DockerTuto.Core.pdb
